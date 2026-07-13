@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saurabhvishwakarma000.github.io/Vishwakarma-Woodworks/sitemap.xml
